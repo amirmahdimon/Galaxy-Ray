@@ -1,4 +1,5 @@
 # Galaxy-Ray
+A V2Ray client for Android, support Xray core and v2fly core
 Galaxy-Ray is here to connect you to world-wide-web with high security and fast speed under x-ray.
 # Images
 
